@@ -1,5 +1,6 @@
-import Image from "next/image";
+import ThemeChanger from "@/components/ThemeChanger";
+import Hero from "./_components/Hero";
 
 export default function Home() {
-  return <div>Lets ge</div>;
+  return <div><Hero/></div>;
 }
