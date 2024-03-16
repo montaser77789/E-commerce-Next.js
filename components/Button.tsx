@@ -9,7 +9,7 @@ const buttonVarients = cva(
       intent: {
         primary: "text-textcolor bg-primary hover:opacity-75 ",
         outline: " text-textcolor  border border-textcolor",
-        destructive: "text-textcolor  ",
+        destructive: "text-textcolor ",
       },
       size: {
         xs: "px-2 text-xs h-6",
